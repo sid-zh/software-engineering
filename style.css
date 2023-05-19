@@ -115,7 +115,7 @@
  /* Home Section */
  #home {
      height: 100vh;
-     background: url('/asset/back.jpg') no-repeat center center fixed;
+     background: url('./asset//back.jpg') no-repeat center center fixed;
      background-size: cover;
      display: flex;
      align-items: center;
